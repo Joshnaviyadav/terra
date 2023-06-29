@@ -33,4 +33,4 @@ jobs:
       # Create S3 bucket
       - name: Create S3 bucket
         run: |
-          aws s3api create-bucket --bucket bucket5hd6hbf --region us-east-1
+          aws s3api create-bucket --bucket bucket5drdyh --region us-east-1
